@@ -1,21 +1,21 @@
 {
-  "scripts": {
-    "demo": "webpack-dev-server --open"
-  },
-  "dependencies": {
-    "angular": "1.7.7",
-    "angularjs": "0.0.1"
-  },
-  "devDependencies": {
-    "@babel/core": "7.2.2",
-    "@babel/preset-env": "7.2.3",
-    "@types/angular": "1.6.54",
-    "babel-loader": "8.0.5",
-    "ts-loader": "5.3.3",
-    "typescript": "3.3.4000",
-    "webpack": "4.28.1",
-    "webpack-cli": "3.2.1",
-    "webpack-dev-server": "3.2.1",
-    "webpack-serve": "2.0.3"
-  }
+    "scripts": {
+        "start": "webpack-dev-server --open"
+    },
+    "dependencies": {
+        "angular": "1.7.7",
+        "angularjs": "0.0.1"
+    },
+    "devDependencies": {
+        "@babel/core": "7.2.2",
+        "@babel/preset-env": "7.2.3",
+        "@types/angular": "1.6.54",
+        "babel-loader": "8.0.5",
+        "ts-loader": "5.3.3",
+        "typescript": "3.3.4000",
+        "webpack": "4.28.1",
+        "webpack-cli": "3.2.1",
+        "webpack-dev-server": "3.2.1",
+        "webpack-serve": "2.0.3"
+    }
 }
